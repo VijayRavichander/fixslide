@@ -43,4 +43,4 @@ python convert.py --help
 ```
 
 
-Highly Inspire by (https://github.com/manncodes/fixslide/tree/master)
+Highly Inspired by (https://github.com/manncodes/fixslide/tree/master)
