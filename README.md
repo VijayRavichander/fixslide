@@ -25,7 +25,7 @@ To use the script, open your terminal and run the script with the following comm
 ## Usage
 
 ### Colab Version
-Download the convert.ipynb and import it to Colab and fix the respective lecture slide you need
+Download the convert.ipynb and import it to Colab and download the compressed PDF
 
 ### Script
 To use the script, open your terminal and run the script with the following command:
